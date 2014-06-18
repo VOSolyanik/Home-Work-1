@@ -1,0 +1,44 @@
+﻿* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Arial, 'Times New Roman', Helvetica, sans-serif;
+	background-color: #eee;	
+}
+
+#main{
+	background-color: #fff;
+	width: 410px;
+	margin: 3px auto;
+	padding: 60px 40px 10px;
+}
+
+#name {
+	text-align:center;
+	font-size: 130%;
+	margin-bottom: 5px;
+}
+
+#avatar {
+	margin: 10px auto;
+	display: block;
+}
+
+.cell{
+	border-bottom: 1px solid #7a7a7a;
+	padding: 15px 10px 8px;
+}
+
+.cell ul {
+	padding: 15px 0px 0px 40px;
+}
+
+.telephone{
+	margin-bottom: 20px;
+}
+
+#footer {
+	padding: 10px 10px 50px;
+}
